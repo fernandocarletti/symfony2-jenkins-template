@@ -16,6 +16,6 @@ Follow the installation steps from [Jenkins PHP](http://jenkins-php.org) for ins
 
 4. Move `phpunit.xml` to `[SYMFONY2_ROOT]/app` folder or update the existing one. The `logging` node is needed!
 
-5. Add th [symfony2-coding-standards](https://github.com/opensky/Symfony2-coding-standard) in your phpcs naming it as `Symfony2` or edit the phpcs target on build.xml with the right parameters for your envirement.
+5. Add the [symfony2-coding-standards](https://github.com/opensky/Symfony2-coding-standard) in your phpcs naming it as `Symfony2` or edit the phpcs target on build.xml with the right parameters for your envirement.
 
 You can customize the configuration as you want, this works fine with me :)
